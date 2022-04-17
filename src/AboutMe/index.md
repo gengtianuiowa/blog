@@ -20,7 +20,7 @@ Addictive board gamer ♜, fan of Lakers 🏀, curious programer 🧑🏿‍💻
 
 ## Publication & Selected Portfolios
 
-[[PDF]('http://alextian.blog/pdf/paper.pdf')] Koylu, C., **Tian, G.**, & Windsor, M. (2022). FlowMapper.org: A web-based framework for designing origin-destination flow maps. Journal of Maps. DOI: https://doi.org/10.1080/17445647.2021.1996479
+[[PDF](http://alextian.blog/pdf/paper.pdf)] Koylu, C., **Tian, G.**, & Windsor, M. (2022). FlowMapper.org: A web-based framework for designing origin-destination flow maps. Journal of Maps. DOI: https://doi.org/10.1080/17445647.2021.1996479
 
 The paper is writen based on [Flowmapper](https://flowmapper.org/), a professional and user friendly flow mapping tool. It was fully developed by me and used in my Master defense.
 
