@@ -24,7 +24,7 @@ Addictive board gamer ♜, fan of Lakers 🏀, curious programer 🧑🏿‍💻
 
 The paper is writen based on [Flowmapper](https://flowmapper.org/), a professional and user friendly flow mapping tool. It was fully developed by me and used in my Master defense.
 
-Maps created by Flowmapper is used as the front page background of our (Geosocial Lab)[https://www.geo-social.com/index.html].
+Maps created by Flowmapper is used as the front page background of our [Geosocial Lab](https://www.geo-social.com/index.html).
 
 ## Work Experience
 
