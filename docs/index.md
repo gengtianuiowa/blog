@@ -1,32 +1,47 @@
 ---
-title: I am testing
-nav:
-  path: /test
-  title: Oh shit
+title: Alex's Playground
 hero:
-  title: Alex's Blog
-  desc: Welcome
+  title: Alex's Playground
+  desc: Hi! I am Alex. You may also know me as Geng~
   # image: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
   actions:
     - text: Explore Here!
-      link: /components
+      link: /aboutme
 features:
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
-    title: Feature 1
-    desc: Balabala
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/d60657df-0822-4631-9d7c-e7a869c2f21c/k79dmz3q_w126_h126.png
-    title: Feature 2
-    desc: Balabala
-  - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
-    title: Feature 3
-    desc: Balabala
+  - icon: /images/whu_with_uiowa.png
+    title: WHU & UIowa Alumni
+    desc: 2015.9 - 2021.6
+  - icon: /images/ESRI_logo.png
+    title: Software Developer Intern
+    desc: 2020.6 - 2020.8
+  - icon: /images/meituan_with_mad_logo.png
+    title: System Developer
+    desc: 2021.8 - present
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org), developed by Alex (Geng) Tian
 ---
 
-## Welcome to explore my space!
+## Please Follow Me On Social Media:
 
-features:
+<a href="https://www.linkedin.com/in/gengtian/">
+  <img src="../public/images/linkedin.png"  width="30"/>
+</a>(US ver.)  &nbsp;&nbsp;&nbsp;&nbsp;
 
-- icon: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png title: Feature 1 desc: Balabala
-- icon: https://gw.alipayobjects.com/zos/bmw-prod/d60657df-0822-4631-9d7c-e7a869c2f21c/k79dmz3q_w126_h126.png title: Feature 2 desc: Balabala
-- icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png title: Feature 3 desc: Balabala
+<a href="https://space.bilibili.com/470259814">
+  <img src="../public/images/bilibili.png" alt="drawing" width="30"/>
+</a>(Coding) &nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://space.bilibili.com/11462109">
+  <img src="../public/images/bilibili(red).png" alt="drawing" width="30"/>
+</a>(Gaming) &nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.youtube.com/channel/UCQ_a1womz3A70MlHaYKM1aQ">
+  <img src="../public/images/youtube.png" alt="drawing" width="30"/>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://weibo.com/u/1928983975">
+  <img src="../public/images/weibo.png" alt="drawing" width="30"/>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/tian.geng.90">
+  <img src="../public/images/facebook.png" alt="drawing" width="30"/>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
