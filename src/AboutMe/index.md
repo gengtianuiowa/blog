@@ -4,4 +4,32 @@ nav:
   path: /aboutme
 ---
 
-##
+## ❓ Who Am I
+
+I am Alex Tian (also known as Geng to some of my old friends), a software developer working at MAD (Meituan Autonomous Driving), Beijing, China.
+
+## 👻 Roles and Hobbies
+
+Addictive board gamer ♜, fan of Lakers 🏀, curious programer 🧑🏿‍💻, technical stuff lover 📱. Please invite me if you have the same hobbies 😊.
+
+## Education
+
+2015.9-2019.6 B.S. from Wuhan University, Wuhan, China. Major: Geographic Information Science.
+
+2019.8-2021.6 B.A. from the University of Iowa, Iowa City, IA, USA. Major: Geography. Advisor: [Caglar Koylu](https://clas.uiowa.edu/geography/people/caglar-koylu).
+
+## Publication & Selected Portfolios
+
+[[PDF]('')] Koylu, C., **Tian, G.**, & Windsor, M. (2022). FlowMapper.org: A web-based framework for designing origin-destination flow maps. Journal of Maps. DOI: https://doi.org/10.1080/17445647.2021.1996479
+
+The paper is writen based on [Flowmapper](https://flowmapper.org/), a professional and user friendly flow mapping tool. It was fully developed by me and used in my Master defense.
+
+Maps created by Flowmapper is used as the front page background of our (Geosocial Lab)[https://www.geo-social.com/index.html].
+
+## Work Experience
+
+2019.8-2021.6 Teach Assistant of the Department of Geography and Sustainability Science, the University of Iowa.
+
+2020.6-2020.8 Backend Programmer of Online Feature Service group of ESRI, Redlands, California.
+
+2021.8-present System Developer of Map Service group of Meituan Autonomous Driving, Beijing, China.

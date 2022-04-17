@@ -26,6 +26,9 @@ footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](http
   <img src="../public/images/linkedin.png"  width="30"/>
 </a>(US ver.)  &nbsp;&nbsp;&nbsp;&nbsp;
 
+<a href="https://github.com/gengtianuiowa">
+  <img src="../public/images/github.png"  width="30"/>
+</a> &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://space.bilibili.com/470259814">
   <img src="../public/images/bilibili.png" alt="drawing" width="30"/>
 </a>(Coding) &nbsp;&nbsp;&nbsp;&nbsp;
