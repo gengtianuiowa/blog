@@ -10,21 +10,21 @@ I am Alex Tian (also known as Geng to some of my old friends), a software develo
 
 ## 👻 Roles and Hobbies
 
-Addictive board gamer ♜, fan of Lakers 🏀, curious programer 🧑🏿‍💻, technical stuff lover 📱. Please invite me if you have the same hobbies 😊.
+Enthusiastic board gamer ♜, fan of Lakers 🏀, curious programmer 🧑🏿‍💻, electric device researcher 📱. We may play together if we share the same hobbies 😊.
 
 ## Education
 
-2015.9-2019.6 B.S. from Wuhan University, Wuhan, China. Major: Geographic Information Science.
+2015.9-2019.6 B.S. of Geographic Information Science from Wuhan University, Wuhan, China.
 
-2019.8-2021.6 B.A. from the University of Iowa, Iowa City, IA, USA. Major: Geography. Advisor: [Caglar Koylu](https://clas.uiowa.edu/geography/people/caglar-koylu).
+2019.8-2021.6 M.A. of Geography from the University of Iowa, Iowa City, IA, USA. Advisor: [Caglar Koylu](https://clas.uiowa.edu/geography/people/caglar-koylu).
 
 ## Publication & Selected Portfolios
 
-[[PDF](http://alextian.blog/pdf/paper.pdf)] Koylu, C., **Tian, G.**, & Windsor, M. (2022). FlowMapper.org: A web-based framework for designing origin-destination flow maps. Journal of Maps. DOI: https://doi.org/10.1080/17445647.2021.1996479
+[[PDF](http://43.138.83.161//pdf/paper.pdf)] Koylu, C., **Tian, G.**, & Windsor, M. (2022). FlowMapper.org: A web-based framework for designing origin-destination flow maps. Journal of Maps. DOI: https://doi.org/10.1080/17445647.2021.1996479
 
-The paper is writen based on [Flowmapper](https://flowmapper.org/), a professional and user friendly flow mapping tool. It was fully developed by me and used in my Master defense.
+The paper was writen based on [Flowmapper](https://flowmapper.org/), a professional flow mapping tool. It was fully developed by me with HTML + CSS + Javascript and used in my Master defense.
 
-Maps created by Flowmapper is used as the front page background of our [Geosocial Lab](https://www.geo-social.com/index.html).
+Maps created by Flowmapper is used as the front page background of our [Geosocial Lab](https://www.geo-social.com/index.html) and supports future needs of creating research figures.
 
 ## Work Experience
 
