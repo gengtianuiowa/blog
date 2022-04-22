@@ -20,7 +20,7 @@ features:
 footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org), developed by Alex (Geng) Tian
 ---
 
-## Please Follow Me On Social Media:
+## 在社交媒体上关注我:
 
 <a href="https://www.linkedin.com/in/gengtian/">
   <img src="../public/images/linkedin.png"  width="30"/>
@@ -40,10 +40,10 @@ footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](http
 <a href="https://www.youtube.com/channel/UCQ_a1womz3A70MlHaYKM1aQ">
   <img src="../public/images/youtube.png" alt="drawing" width="30"/>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
-
+<!-- 
 <a href="https://weibo.com/u/1928983975">
   <img src="../public/images/weibo.png" alt="drawing" width="30"/>
-</a> &nbsp;&nbsp;&nbsp;&nbsp;
+</a> &nbsp;&nbsp;&nbsp;&nbsp; -->
 
 <a href="https://www.facebook.com/tian.geng.90">
   <img src="../public/images/facebook.png" alt="drawing" width="30"/>

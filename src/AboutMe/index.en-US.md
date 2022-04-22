@@ -10,7 +10,7 @@ I am Alex Tian (also known as Geng to some of my old friends), a software develo
 
 ## 👻 Roles and Hobbies
 
-Enthusiastic board gamer ♜, fan of Lakers 🏀, curious programmer 🧑🏿‍💻, electric device researcher 📱. We may play together if we share the same hobbies 😊.
+Enthusiastic board gamer ♜, fan of Lakers 🏀, curious programmer 🧑🏿‍💻, electronic guy 📱. Tell me if we share the same hobbies 😊!
 
 ## Education
 

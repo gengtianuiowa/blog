@@ -7,7 +7,7 @@ export default defineConfig({
   outputPath: 'docs-dist',
   mode: 'site',
   locales: [
-    ['zh-CH', '中文'],
+    ['zh-CN', '中文'],
     ['en-US', 'English'],
   ],
   // more config: https://d.umijs.org/config

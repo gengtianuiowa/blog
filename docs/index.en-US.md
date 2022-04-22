@@ -41,9 +41,9 @@ footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](http
   <img src="../public/images/youtube.png" alt="drawing" width="30"/>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://weibo.com/u/1928983975">
+<!-- <a href="https://weibo.com/u/1928983975">
   <img src="../public/images/weibo.png" alt="drawing" width="30"/>
-</a> &nbsp;&nbsp;&nbsp;&nbsp;
+</a> &nbsp;&nbsp;&nbsp;&nbsp; -->
 
 <a href="https://www.facebook.com/tian.geng.90">
   <img src="../public/images/facebook.png" alt="drawing" width="30"/>
