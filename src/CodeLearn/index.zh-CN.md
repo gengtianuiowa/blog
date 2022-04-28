@@ -7,7 +7,7 @@ nav:
 
 # Python 优秀源码阅读：Requests。持续更新。
 
-注：文章引自我的个人 [GitHub](https://github.com/gengtianuiowa)
+**如要阅读，请访问我的个人 [GitHub](https://github.com/gengtianuiowa)。如有收获，麻烦加个 🌟，点个 watch，谢谢了！**
 
 本仓库为 Python 优秀代码库：[Request](https://github.com/psf/requests) 的阅读笔记，作者为美团工作第一年的校招生。
 
