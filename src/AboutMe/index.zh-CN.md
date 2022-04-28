@@ -24,9 +24,9 @@ nav:
 
 这片论文基于 [Flowmapper](https://flowmapper.org/)而做, 一个专业的 web 端“流制图“工具。 它完全由我用原生三件套（HTML + CSS + Javascript) 开发而且用于我的硕士毕业答辩。
 
-Flowmapper 制作的地图现在被用于 [Geosocial Lab](https://www.geo-social.com/index.html)的主页背景而且支持着实验室论文插图的制作需求。
+Flowmapper 制作的地图现在被用于 [Geosocial Lab](https://www.geo-social.com/index.html)主页的背景而且支持着实验室论文插图的生产。
 
-## 工作经理
+## 工作经历
 
 2019.8-2021.6 助教(TA), Department of Geography and Sustainability Science, the University of Iowa.
 

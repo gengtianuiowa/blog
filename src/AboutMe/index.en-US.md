@@ -22,7 +22,7 @@ Enthusiastic board gamer ♜, fan of Lakers 🏀, curious programmer 🧑🏿‍
 
 [[PDF](http://43.138.83.161//pdf/paper.pdf)] Koylu, C., **Tian, G.**, & Windsor, M. (2022). FlowMapper.org: A web-based framework for designing origin-destination flow maps. Journal of Maps. DOI: https://doi.org/10.1080/17445647.2021.1996479
 
-The paper was writen based on [Flowmapper](https://flowmapper.org/), a professional flow mapping tool. It was fully developed by me with HTML + CSS + Javascript and used in my Master defense.
+The paper was writen based on [Flowmapper](https://flowmapper.org/), a professional flow mapping tool. It was fully developed by me with HTML + CSS + Javascript and used in my Master's defense.
 
 Maps created by Flowmapper is used as the front page background of our [Geosocial Lab](https://www.geo-social.com/index.html) and supports future needs of creating research figures.
 
