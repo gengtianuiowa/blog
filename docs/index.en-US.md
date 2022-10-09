@@ -1,7 +1,7 @@
 ---
-title: Alex's Playground
+title: Alex Playground
 hero:
-  title: Alex's Playground
+  title: Alex Playground
   desc: Hi! I am Alex. You may also know me as Geng~
   # image: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
   actions:
@@ -17,7 +17,7 @@ features:
   - icon: /images/meituan_with_mad_logo.png
     title: System Developer
     desc: 2021.8 - present
-footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org), developed by Alex (Geng) Tian
+footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org), developed by Alex (Geng) Tian | <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备2022013412号</a>
 ---
 
 ## Please Follow Me On Social Media:

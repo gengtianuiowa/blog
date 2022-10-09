@@ -1,7 +1,7 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  title: "Alex's Playground",
+  title: 'Alex的游乐场',
   favicon: '/images/pig.jpg',
   logo: '/images/pig.jpg',
   outputPath: 'docs-dist',

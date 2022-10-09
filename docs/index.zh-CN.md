@@ -1,7 +1,7 @@
 ---
-title: Alex's 的游乐场
+title: Alex 的游乐场
 hero:
-  title: Alex's 的游乐场
+  title: Alex 的游乐场
   desc: 你好！我是Alex。欢迎来到我的空间！
   # image: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
   actions:
@@ -17,7 +17,7 @@ features:
   - icon: /images/meituan_with_mad_logo.png
     title: 系统开发
     desc: 2021.8 - 现在
-footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org), developed by Alex (Geng) Tian
+footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org), developed by Alex (Geng) Tian | <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备2022013412号</a>
 ---
 
 ## 在社交媒体上关注我:
