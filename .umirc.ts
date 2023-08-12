@@ -1,7 +1,7 @@
 import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  title: 'Alex的游乐场',
+  title: "Alex's Playground",
   favicon: '/images/pig.jpg',
   logo: '/images/pig.jpg',
   outputPath: 'docs-dist',
@@ -39,5 +39,15 @@ export default defineConfig({
       },
     ],
   },
+  metas: [
+    {
+      name: 'keywords',
+      content: 'Geng Tian, Alex (Geng) Tian, Geng的游乐场',
+    },
+    {
+      name: 'description',
+      content: 'Blog of Alex (Geng) Tian.',
+    },
+  ],
   // more config: https://d.umijs.org/config
 });

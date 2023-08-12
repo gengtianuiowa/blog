@@ -17,14 +17,14 @@ features:
   - icon: /images/meituan_with_mad_logo.png
     title: 系统开发
     desc: 2021.8 - 现在
-footer: Open-source MIT Licensed | Copyright © 2020<br />Powered by [dumi](https://d.umijs.org), developed by Alex (Geng) Tian | <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备2022013412号</a>
+footer: Developed by Alex (Geng) Tian | <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备2022013412号</a>
 ---
 
 ## 在社交媒体上关注我:
 
 <a href="https://www.linkedin.com/in/gengtian/">
   <img src="../public/images/linkedin.png"  width="30"/>
-</a>(海外版)  &nbsp;&nbsp;&nbsp;&nbsp;
+</a>  &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/gengtianuiowa">
   <img src="../public/images/github.png"  width="30"/>
