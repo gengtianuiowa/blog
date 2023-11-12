@@ -18,7 +18,7 @@ mvn package -Dmaven.test.skip
 
 ip="43.134.83.189"
 
-scp -r thirdparty/ target/main-"$version".jar deploy/start_server.sh root@"$ip":/root
+scp -r thirdparty/ target/blog-"$version".jar deploy/start_server.sh root@"$ip":/root
 # shellcheck disable=SC2029
 ssh root@"$ip" "bash start_server.sh -v $version && exit"
 echo "Check your result at https://$ip:443. Update CDN resources at https://console.cloud.tencent.com/cdn/refresh?tab=dir if the check passed."
