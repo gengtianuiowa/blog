@@ -8,8 +8,8 @@
         <version>2.3.1.RELEASE</version>
     </parent>
     <groupId>com.qta.be</groupId>
-    <artifactId>main</artifactId>
-    <version>3.3.0</version>
+    <artifactId>blog</artifactId>
+    <version>1.0.0</version>
     <name>blog</name>
     <description>my blog</description>
     <properties>

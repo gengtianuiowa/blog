@@ -7,7 +7,8 @@ toc: menu
 
 大家好，我是 Alex。很开心你能够找到这里，花更多时间了解我。
 
-**_我目前在加拿大维多利亚大学攻读应用数据科学专业硕士。正在寻找大温、大维地区的 SDE 工作（兼职、全职皆可）。欢迎相关朋友联系我！谢谢～_**
+**_我目前在加拿大维多利亚大学攻读应用数据科学专业硕士。正在寻找大温、大维地区的 SDE
+工作（兼职、全职皆可）。欢迎相关朋友联系我！谢谢～_**
 
 ## MBTI 人格
 
@@ -46,7 +47,7 @@ ENTJ
 
 2021.8-2023.8 系统开发，美团自动车，高精地图与定位部，在线服务。
 
-详细内容见[简历](http://43.138.83.161/cv/Geng_Tian_cv.pdf)
+详细内容见[简历](cv/Geng_Tian_cv.pdf)
 
 ## 技术栈
 
@@ -70,9 +71,11 @@ GIS：ArcMap，ArcGIS Pro，QGIS，OpenLayers，Leaflet， 百度地图 API，Go
 
 ## 论文
 
-[[PDF](http://43.138.83.161/pdf/paper.pdf)] Koylu, C., **Tian, G.**, & Windsor, M. (2022). FlowMapper.org: A web-based framework for designing origin-destination flow maps. Journal of Maps. DOI: https://doi.org/10.1080/17445647.2021.1996479
+[[PDF](pdf/paper.pdf)] Koylu, C., **Tian, G.**, & Windsor, M. (2022). FlowMapper.org: A web-based framework for
+designing origin-destination flow maps. Journal of Maps. DOI: https://doi.org/10.1080/17445647.2021.1996479
 
-[Flowmapper](https://flowmapper.org/)，一个专业的 web 端“流制图“工具。用原生三件套（HTML + CSS + Javascript) 开发的。可以用来做流动数据的可视化，例如人口、车辆流动等。实验室里的许多插图都是用它画的。
+[Flowmapper](https://flowmapper.org/)，一个专业的 web 端“流制图“工具。用原生三件套（HTML + CSS + Javascript)
+开发的。可以用来做流动数据的可视化，例如人口、车辆流动等。实验室里的许多插图都是用它画的。
 
 欢迎光临 [Geosocial Lab](https://www.geo-social.com/index.html)。
 

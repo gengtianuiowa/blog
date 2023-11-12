@@ -1,12 +1,12 @@
 echo "Server deploy starts!"
 set -e
-while getopts "m:v:d:" opt; do
+while getopts "n:" opt; do
   case "$opt" in
-  v) version="$OPTARG" ;;
+  n) name="$OPTARG" ;;
   esac
 done
 
-if [ -z "$version" ]; then
+if [ -z "$name" ]; then
   echo "ERROR! Please input the version number for package. E.g.: 3.0.0"
   exit
 fi
@@ -39,7 +39,7 @@ echo "$pid was dead!"
 sleep 2 # In case the port is not fully released.
 echo "Start launching server."
 rm be.log
-nohup java -Dfile.encoding=UTF-8 -jar main-"$version".jar --spring.profiles.active="$mode" >>be.log 2>&1 &
+nohup java -Dfile.encoding=UTF-8 -jar "$name".jar --spring.profiles.active=prod >>be.log 2>&1 &
 echo $! >nohup_pid.txt
 sleep 2
 # track the log file

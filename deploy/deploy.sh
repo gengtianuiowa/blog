@@ -11,14 +11,16 @@ if [ -z "$version" ]; then
 fi
 # Build frontend
 yarn --cwd ./web docs:build
+rm -rf src/main/resources/public/*
 mv ./web/docs-dist/* ./src/main/resources/public
 rm -r ./web/docs-dist/
 ## Build backend
+mvn versions:set -DnewVersion="$version" # Set version number
 mvn package -Dmaven.test.skip
 
 ip="43.134.83.189"
 
-scp -r thirdparty/ target/blog-"$version".jar deploy/start_server.sh root@"$ip":/root
+scp -r target/blog-"$version".jar deploy/start_server.sh root@"$ip":/root
 # shellcheck disable=SC2029
-ssh root@"$ip" "bash start_server.sh -v $version && exit"
+ssh root@"$ip" "bash start_server.sh -n blog-$version && exit"
 echo "Check your result at https://$ip:443. Update CDN resources at https://console.cloud.tencent.com/cdn/refresh?tab=dir if the check passed."

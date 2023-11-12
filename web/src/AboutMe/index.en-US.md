@@ -57,7 +57,7 @@ China.
 
 2019.8-2021.6 Teach Assistant, Department of Geography and Sustainability Science, the University of Iowa.
 
-More details are included in my [CV](http://43.138.83.161/cv/Geng_Tian_cv.pdf).
+More details are included in my [CV](https://alextian.net/cv/Geng_Tian_CV.pdf).
 
 ## Tech Stack
 
@@ -81,7 +81,7 @@ GIS：ArcMap, ArcGIS Pro, QGIS, OpenLayers, Leaflet, Baidu API, Google Map API
 
 ## Publication
 
-[[PDF](http://43.138.83.161/pdf/paper.pdf)] Koylu, C., **Tian, G.**, & Windsor, M. (2022). FlowMapper.org: A web-based
+[[PDF](https://alextian.net/pdf/paper.pdf)] Koylu, C., **Tian, G.**, & Windsor, M. (2022). FlowMapper.org: A web-based
 framework for designing origin-destination flow maps. Journal of Maps.
 DOI: https://doi.org/10.1080/17445647.2021.1996479
 
