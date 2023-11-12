@@ -7,8 +7,8 @@ export default defineConfig({
   outputPath: 'docs-dist',
   mode: 'site',
   locales: [
-    ['zh-CN', '中文'],
     ['en-US', 'English'],
+    ['zh-CN', '中文'],
   ],
   // // menus: {
   // //   '/code-learn': [

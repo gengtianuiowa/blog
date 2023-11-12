@@ -1,12 +1,12 @@
 ---
-title: Alex Playground
+title: Alex's Playground
 hero:
-  title: Alex Playground
+  title: Alex's Playground
   desc: Hi! I am Alex. You may also know me as Geng~
   # image: https://gw.alipayobjects.com/zos/bmw-prod/881dc458-f20b-407b-947a-95104b5ec82b/k79dm8ih_w144_h144.png
   actions:
     - text: Explore Here!
-      link: /aboutme
+      link: /about-me
 features:
   - icon: /images/whu_with_uiowa.png
     title: WHU & UIowa Alumni

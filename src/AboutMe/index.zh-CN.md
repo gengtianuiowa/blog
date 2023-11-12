@@ -7,21 +7,28 @@ toc: menu
 
 大家好，我是 Alex。很开心你能够找到这里，花更多时间了解我。
 
+**_我目前在加拿大维多利亚大学攻读应用数据科学专业硕士。正在寻找大温、大维地区的 SDE 工作（兼职、全职皆可）。欢迎相关朋友联系我！谢谢～_**
+
 ## MBTI 人格
 
 ENTJ
+
+- 待人接物热情大方，在社交场合非常活跃（E）。
+
+- 在感知外界事物时，他们特别善于洞察和发现机会、事物之间的联系及意义（N）。
+
+- 十分客观地分析获得的感知，然后形成见解、战略或驱动组织实现其目标的复杂系统（T）。
+
+- 具备高度的责任感，所以绝不会纸上谈兵，绝不会让这些见解、战略或系统突然留在绘图板上（J）
 
 ## 爱好
 
 - 编程。梦想成为一个世界一流的工程师。
 
-[//]: # '最近开发了一个 AI 工具聚合平台：[灵沐 AI](https://chat.immuseai.com)，是一个利用'
-[//]: # 'React + SpringBoot 开发的一个 AI 应用聚合平台。目前可以支持 ChatGPT 聊天、AI 绘图等（测试中）。'
-
-- 桌游。[玩过的桌游](/about-me/board-games)。电子卡牌：炉石传说：武大炉石 2016 新年赛冠军；昆特牌、影之诗。
+- 桌游。[玩过的桌游](about-me/board-games)。电子卡牌：炉石传说：武大炉石 2016 新年赛冠军；昆特牌、影之诗。
 
 - 篮球、健身。属于又菜又爱玩，没有运动天赋 😅。
-- 当过一段时间 up 主。B 站游戏账号有一千多粉丝。
+- up 主。大号是 B 站游戏账号，有一千多粉丝。小号是编程账号，目前两百多粉丝。
 
 ## 教育背景
 
@@ -39,21 +46,23 @@ ENTJ
 
 2021.8-2023.8 系统开发，美团自动车，高精地图与定位部，在线服务。
 
+详细内容见[简历](http://43.138.83.161/cv/Geng_Tian_cv.pdf)
+
 ## 技术栈
 
 语言：Java，Python，TS，JS，C#，C++
 
-前端：React，And Design，TailWindCSS，Umi，Dva
+前端：React，And Design，TailWindCSS，Umi，Dva，WebSocket
 
-后端：SpringBoot，Asp.net，MySQL，PostgreSQL，Redis
+后端：SpringBoot，MySQL，PostgreSQL，Redis，Asp.net
 
-工具：腾讯云服务器，数据库，CDN，对象存储，日志服务，Docker
+工具：腾讯云服务器，数据库，CDN，对象存储，日志服务，Docker，Git， Linux，Shell
 
-GIS：ArcMap，ArcGIS Pro，QGIS
+GIS：ArcMap，ArcGIS Pro，QGIS，OpenLayers，Leaflet， 百度地图 API，Google 地图 API
 
 ## 作品
 
-- [灵沐 AI](https://chat.immuseai.com) 一个 AI 工具的聚合平台。目前有约 2000 名注册用户。
+- [灵沐 AI](https://chat.immuseai.com) 一个 AI 工具的聚合平台。目前有约 2000 多名注册用户。
 
   支持基于 GPT 的 AI 聊天
 
