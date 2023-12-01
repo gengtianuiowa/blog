@@ -42,11 +42,11 @@ ENTJ
 
 ## Educational Background
 
-2015.9-2019.6 Bachelor of Science，Wuhan University，Geographic Information Science。
+2015.9-2019.6 Bachelor of Science，Wuhan University，Geographic Information Science
 
 2019.8-2021.6 Master of Art, the University of Iowa, Geography (emphasized on GIS)
 
-2023.9-2024.8 (expected) Master of Engineering，the University of Victoria, Applied Data Science
+2023.9-2024.8 (expected) Master of Engineering, the University of Victoria, Applied Data Science
 
 ## Work Experience
 
