@@ -1,11 +1,11 @@
 echo "Server deploy starts!"
 set -e
-while getopts "n:" opt; do
+while getopts "v:" opt; do
   case "$opt" in
-  n) name="$OPTARG" ;;
+  v) version="$OPTARG" ;;
   esac
 done
-
+name="blog-$version"
 if [ -z "$name" ]; then
   echo "ERROR! Please input the version number for package. E.g.: 3.0.0"
   exit
@@ -26,14 +26,14 @@ sysctl_start() {
 }
 
 # Start server
-pid=$(ps -ef | grep main | grep -v grep | awk '{print $2}')
+pid=$(ps -ef | grep blog- | grep -v grep | awk '{print $2}')
 echo "Start checking $pid aliveness."
 while [[ -n $pid ]]; do
   kill "$pid"
   echo "Killing succeeded!"
   echo "$pid is alive. Will recheck after 3s."
   sleep 3
-  pid=$(ps -ef | grep main | grep -v grep | awk '{print $2}')
+  pid=$(ps -ef | grep blog- | grep -v grep | awk '{print $2}')
 done
 echo "$pid was dead!"
 sleep 2 # In case the port is not fully released.

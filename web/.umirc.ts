@@ -10,6 +10,16 @@ export default defineConfig({
     ['en-US', 'English'],
     ['zh-CN', '中文'],
   ],
+  navs: {
+    'en-US': [
+      null,
+      { title: 'CV', path: 'https://alextian.net/cv/Geng_Tian_CV.pdf' },
+    ],
+    'zh-CN': [
+      null,
+      { title: 'CV', path: 'https://alextian.net/cv/Geng_Tian_CV.pdf' },
+    ],
+  },
   // // menus: {
   // //   '/code-learn': [
   // //     {

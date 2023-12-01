@@ -28,11 +28,11 @@ ENTJ
 
 - Strong sense of responsibility. Prefer to be planned and organized rather than spontaneous and flexible (Judging).
 
-## Hobbits
+## Hobbies
 
 - Programming. Dreaming of becoming a world-class engineer.
 
-- Board games. [Board games I've played](about-me/board-games). Digital card games: Hearthstone - 2016 New Year
+- Board games. Digital card games: Hearthstone - 2016 New Year
   Championship for Freshmen of Wuhan University; Gwent, Shadowverse.
 
 - Basketball & fitness. Not very skilled but still enjoying playing. No natural athletic talent here! 😅
@@ -59,7 +59,7 @@ China.
 
 More details are included in my [CV](https://alextian.net/cv/Geng_Tian_CV.pdf).
 
-## Tech Stack
+## Tech Stacks
 
 Languages：Java, Python, TS, JS, C#, C++
 
@@ -70,26 +70,6 @@ Backend：SpringBoot, MySQL, PostgreSQL, Redis, Asp.net
 Tools：Tencent Cloud Server & Database，CDN, Cloud Object Storage, Cloud Log Service, Docker, Git, Linux, Shell
 
 GIS：ArcMap, ArcGIS Pro, QGIS, OpenLayers, Leaflet, Baidu API, Google Map API
-
-## Project
-
-- [Immuse AI](https://chat.immuseai.com) An aggregation platform for AI tools with over 2000 registered users.
-
-  Supports GPT-based AI chat.
-
-  Supports MidJourney drawing.
-
-## Publication
-
-[[PDF](https://alextian.net/pdf/paper.pdf)] Koylu, C., **Tian, G.**, & Windsor, M. (2022). FlowMapper.org: A web-based
-framework for designing origin-destination flow maps. Journal of Maps.
-DOI: https://doi.org/10.1080/17445647.2021.1996479
-
-[Flowmapper](https://flowmapper.org/), a professional web-based "flow mapping" tool developed using HTML + CSS +
-Javascript. It is designed for visualizing dynamic data, such as population movements, vehicle flows, etc. Many
-illustrations in the laboratory are created using this tool.
-
-Welcome to the [Geosocial Lab](https://www.geo-social.com/index.html)。
 
 ## Contact
 
