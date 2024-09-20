@@ -4,7 +4,7 @@ server:
   ssl: # ssl相关配置
     enabled: true
     key-store: classpath:alextian.net.jks
-    key-store-password: 3k7l1sw083848m1
+    key-store-password: 7e649c10nu
     key-store-type: JKS
 logging:
   level:
